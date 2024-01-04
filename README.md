@@ -35,6 +35,9 @@ This project is a part of the JavaScript Algorithms and Data Structures (Beta) c
 
 ## Screenshots
 
+<img width="943" alt="image" src="https://github.com/anilk-anusha/calorieCounter/assets/130001836/123e3f55-f930-4568-b601-e272bf279e0d">
+<img width="937" alt="image" src="https://github.com/anilk-anusha/calorieCounter/assets/130001836/91ba71b5-afbc-4d2e-a4bc-ff9558fc7277">
+<img width="947" alt="image" src="https://github.com/anilk-anusha/calorieCounter/assets/130001836/29c5e265-f2fe-4c99-b704-19c2805cfe54">
 
 
 ## Setup
